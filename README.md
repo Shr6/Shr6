@@ -28,16 +28,6 @@ I work at the intersection of **Cybersecurity** and **Artificial Intelligence** 
 
 ---
 
-### 🛡️ What I Do
-
-- Penetration testing, threat monitoring, and incident response
-- Building custom AI models and automations
-- Web app development with modern TypeScript stacks
-- Embedded systems and IoT with Arduino
-- CI/CD pipeline setup and maintenance
-
----
-
 ### 🚀 Projects
 
 **🌐 [Portfolio Website](https://github.com/Shr6/portfolio-website)**
