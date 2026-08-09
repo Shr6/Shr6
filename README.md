@@ -89,39 +89,27 @@ Data processing and analysis project completed as part of the Quantium virtual i
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shr6&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shr6&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shr6/Shr6/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
 
-<div align="center"><sub>Requires a one-time GitHub Action setup — see instructions below the file.</sub></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shr6/Shr6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shr6/Shr6/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through my GitHub contribution graph, one square at a time" src="https://raw.githubusercontent.com/Shr6/Shr6/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<sub>A snake that eats its way through my contribution graph — regenerates daily via GitHub Actions.</sub>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shr6&theme=tokyonight&hide_border=true" width="49%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shr6&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
