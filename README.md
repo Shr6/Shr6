@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrijan%20Pokharel&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20Specialist%20|%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrijan%20Pokharel&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Cybersecurity%20Specialist%20|%20Full-Stack%20Developer&descAlignY=52&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Securing+systems+by+day...;Shipping+clean+code+by+night;Learning+something+new+every+day" />
 
