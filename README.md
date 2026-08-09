@@ -109,10 +109,9 @@ Data processing and analysis project completed as part of the Quantium virtual i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shr6&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shr6&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
 
 </div>
 
