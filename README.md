@@ -1,94 +1,75 @@
-# Hi, I'm Shrijan Pokharel 👋
+<div align="center">
 
-CSIT Student · Junior Cybersecurity Specialist · Web3 Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrijan%20Pokharel&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20Specialist%20|%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
 
-📍 Bhaktapur, Nepal
-🌐 [shrijanpokharel7.com.np](https://shrijanpokharel7.com.np)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Securing+systems+by+day...;Shipping+clean+code+by+night;Learning+something+new+every+day" />
 
-I work at the intersection of **Cybersecurity** and **Artificial Intelligence** — securing systems by day and building AI-powered projects by night.
+<br/>
 
-Currently a **Junior Cybersecurity Specialist at InteliATE**, where I identify vulnerabilities, monitor threats, support incident response, build custom AI models, and manage CI/CD pipelines.
+![Profile Views](https://komarev.com/ghpvc/?username=Shr6&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Shr6?style=for-the-badge&color=orange)
 
----
-
-## 🛡️ What I Do
-
-- Penetration testing, threat monitoring and incident response
-- Building custom AI models and automations
-- Web app development with modern TypeScript stacks
-- Embedded systems and IoT with Arduino
-- CI/CD pipeline setup and maintenance
+</div>
 
 ---
 
-## 🚀 Projects
+### 🧠 About Me
 
-### 🌐 Portfolio Website
-
-My personal portfolio site — multi-page React app (Home, About, Experience, Projects, Skills, Contact).
-Built with **React**, **Vite**, deployed via **GitHub Pages** on a custom domain.
-
-→ [View repo](https://github.com/Shr6/portfolio-website) · [Live site](https://shrijanpokharel7.com.np)
-
-### 🚦 AI Traffic Simulator
-
-Multi-lane junction simulator with an adaptive AI signal controller.
-Vehicles (cars, buses, trucks) navigate a four-way intersection controlled by a real-time queue scoring algorithm.
-Built with **Python** and **Pygame**.
-
-→ [View repo](https://github.com/Shr6/AI-traffic-signal)
-
-### 📚 Loksewa Buddy Prep
-
-Web platform for Nepal Public Service Commission (Loksewa) exam preparation.
-Built with **TanStack Start**, **React 19**, **shadcn/ui**, **Tailwind CSS**, and deployed on **Cloudflare Workers**.
-
-→ [View repo](https://github.com/Shr6/loksewa-buddy-prep) · [Live site](https://shr6.github.io/loksewa-buddy-prep/)
-
-### 🌊 Flood Monitoring System
-
-Arduino-powered flood monitor with real-time data visualization, Flask web dashboard, historical logging, and CSV export.
-Built with **Arduino**, **Python**, **Flask**, and **HTML**.
-
-→ [View repo](https://github.com/Shr6/hackathon)
-
-### 📊 Quantium Starter (Data Analytics Virtual Internship)
-
-Data processing and analysis project completed as part of the Quantium virtual internship program.
-Built with **Python** for data cleaning, transformation, and analysis.
-
-→ [View repo](https://github.com/Shr6/quantium-starter-repo)
+- 🛡️ Junior Cybersecurity Specialist at **InteliATE** — identifying vulnerabilities, monitoring threats, and supporting incident response
+- 🎓 Student at **Bhaktapur Multiple Campus** (2024–2028)
+- 🤖 Building custom AI models and CI/CD pipelines at work
+- 📊 Currently building a portfolio project to break into **data analytics**
+- 🇳🇵 Based in Bhaktapur, Nepal
+- ⚡ Fun fact: I build my own tools instead of waiting for the perfect one to exist
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-**Languages**
-Python · TypeScript · JavaScript · C · HTML/CSS
+**Frontend**
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Cybersecurity**
-Vulnerability Assessment · Threat Monitoring · Incident Response · Network Security
+**Backend & Runtime**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Web & Frameworks**
-React · TanStack Start · TanStack Router · Flask · Tailwind CSS · shadcn/ui
+**Security & Data**
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0A0A0A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4479A1?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 **Tools & Platforms**
-Arduino · Cloudflare Workers · Wrangler · Git · CI/CD Pipelines
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🏅 Certifications
+### 📊 GitHub Stats & Activity
 
-- **micro1 AI Interview Certified** — Outstanding performance (May 2026)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shr6&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shr6&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
 
 ---
 
-## 🤝 Connect
+### 🔗 Let's Connect
 
-- 🌐 [Website](https://shrijanpokharel7.com.np)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shri-jan-763a51-z/)
-- 🐙 [GitHub](https://github.com/Shr6)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijan-763a51-z)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shr6)
 
-*"Building at the intersection of Cybersecurity and Artificial Intelligence."*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
