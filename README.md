@@ -75,6 +75,12 @@ Data processing and analysis project completed as part of the Quantium virtual i
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,tailwind,flask,cloudflare,arduino,git,vscode,docker&theme=dark" />
+</a>
+</div>
+
 ---
 
 ### 🏅 Certifications
@@ -83,12 +89,38 @@ Data processing and analysis project completed as part of the Quantium virtual i
 
 ---
 
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shr6&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shr6&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shr6/Shr6/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<div align="center"><sub>Requires a one-time GitHub Action setup — see instructions below the file.</sub></div>
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shr6&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shr6&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shr6&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
