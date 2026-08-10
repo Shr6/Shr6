@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shr6&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Shr6?style=for-the-badge&color=orange)
-![Stars](https://img.shields.io/github/stars/Shr6?style=for-the-badge&color=yellow)
+![Stars](https://img.shields.io/github/stars/Shr6?style=for-the-badge&color=green)
 
 📍 Bhaktapur, Nepal
 
