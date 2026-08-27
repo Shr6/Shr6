@@ -27,6 +27,7 @@ I work at the intersection of **Cybersecurity** and **Artificial Intelligence** 
 - ⚡ Fun fact: I build my own tools instead of waiting for the perfect one to exist
 
 ---
+<br/>
 
 ### PROJECT MANAGEMENT PRACTICUM
 OpsHub Restaurant App Launch Planning, Practical Assessment	August 2026
@@ -34,6 +35,8 @@ OpsHub Restaurant App Launch Planning, Practical Assessment	August 2026
 ●	Built a live Jira board and a four-item risk register covering API delays, unclear Firebase/PostgreSQL data ownership, and QA time pressure, each with a named owner and mitigation
 ●	Recommended cutting scope to login, task management, and core backend connectivity to protect the fixed launch date
 ●	Set a daily check-in and weekly senior-management rollup, with Slack automations firing on blocked or overdue Jira tickets
+
+<br/>
 
 ### 🚀 Projects
 
