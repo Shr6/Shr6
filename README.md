@@ -28,7 +28,7 @@ I work at the intersection of **Cybersecurity** and **Artificial Intelligence** 
 
 ---
 
-**🎯 Project Management Practicum — OpsHub Restaurant App Launch Planning** *(August 2026)*
+**🎯 Project Management Practicum (OpsHub Restaurant App Launch Planning}** *(August 2026)*
 - Planned a realistic 6-week release timeline after identifying and revising an incomplete 4-week estimate that lacked backend, integration, QA, and deployment phases.
 - Designed a live **Jira board** and structured a 4-point risk register covering API bottlenecks, Firebase/PostgreSQL data ownership, and QA constraints, establishing assigned ownership and mitigations.
 - Formulated scope-reduction strategies (focusing on authentication, task routing, and core backend connectivity) to ensure on-time delivery under strict launch deadlines.
